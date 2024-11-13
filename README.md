@@ -13,7 +13,7 @@ Tenho experiência em desenvolvimento de projetos pessoais utilizando tecnologia
 ## 📂 Portfólio
 Estou sempre trabalhando em novos projetos para aprimorar minhas habilidades e construir um portfólio sólido. Confira alguns dos meus trabalhos:
 
-- [Portfólio de Apresentação Pessoal](https://new-portfolio-five-indol.vercel.app/): Desenvolvido com Next.js, este projeto mostra um pouco mais sobre mim, minhas habilidades e projetos.
+- [Portfólio Profissional ](https://washingtonlemostech.netlify.app/): Desenvolvido com React.
 
 ## 🌱 O que estou aprendendo
 - Continuo me aprimorando em **React** e **Next.js** para criar interfaces cada vez mais complexas e dinâmicas.
